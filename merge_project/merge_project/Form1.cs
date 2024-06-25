@@ -10,7 +10,7 @@ namespace merge_project
         private void bt_message_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Bem-vindo ao GitHUB");
-            MessageBox.Show("Ol· desenvolvedores");
+            MessageBox.Show("Ol√° desenvolvedores");
         }
     }
 }
