@@ -6,5 +6,10 @@ namespace merge_project
         {
             InitializeComponent();
         }
+
+        private void bt_message_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Bem-vindo ao GitHUB");
+        }
     }
 }
