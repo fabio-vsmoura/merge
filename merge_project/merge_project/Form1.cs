@@ -12,6 +12,7 @@ namespace merge_project
             string texto = "Fabio";
             MessageBox.Show("Bem-vindo ao GitHUB");
             MessageBox.Show("Olá desenvolvedor " + texto);
+            MessageBox.Show("mais um texto");
         }
     }
 }
